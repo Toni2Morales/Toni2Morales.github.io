@@ -5,6 +5,14 @@ const projectcards = document.querySelector(".projectcards");
 
 // Array of object for projects
 const projects = [
+    {
+    title: "Clasificación de Ejercicios",
+    cardImage: "assets/images/project-page/Workout.jpg",
+    description: "A quiz app built using basic react.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/Toni2Morales/WorkoutClassifier",
+    Githublink: "https://github.com/Toni2Morales/WorkoutClassifier",
+  },
   {
     title: "Predicción del precio de motos",
     cardImage: "assets/images/project-page/Moto.jpg",
