@@ -22,7 +22,7 @@ const projects = [
     Githublink: "https://github.com/Toni2Morales/PrediccionPrecioMoto",
   },
   {
-    title: "Reddit NLP",
+    title: "Reddit NLP y Spark",
     cardImage: "assets/images/project-page/Reddit.png",
     description: "A chess engine for a popular game dev engine.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
