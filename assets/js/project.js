@@ -45,6 +45,14 @@ const projects = [
     Previewlink: "https://www.kaggle.com/code/tonimorales/analysis-and-next-position-prediction",
     Githublink: "https://www.kaggle.com/code/tonimorales/analysis-and-next-position-prediction",
   },
+  {
+    title: "Predicción de calidad de mineral",
+    cardImage: "assets/images/project-page/Mineria.jpeg",
+    description: "Flappy bird game built using React.js",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/Toni2Morales/MachineLearning",
+    Githublink: "https://github.com/Toni2Morales/MachineLearning",
+  },
 
 
 ];
