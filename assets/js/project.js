@@ -53,6 +53,14 @@ const projects = [
     Previewlink: "https://github.com/Toni2Morales/MachineLearning",
     Githublink: "https://github.com/Toni2Morales/MachineLearning",
   },
+  {
+    title: "Predicción y Análisis de vinos(NLP)",
+    cardImage: "assets/images/project-page/Vino.jpg",
+    description: "Flappy bird game built using React.js",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/Toni2Morales/PrediccionyAnalisisDeVinos",
+    Githublink: "https://github.com/Toni2Morales/PrediccionyAnalisisDeVinos",
+  },
 
 
 ];
