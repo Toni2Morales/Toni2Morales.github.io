@@ -8,8 +8,15 @@ const exp = [
     title: "Técnico de sistemas microinformáticos y redes",
     cardImage: "assets/images/experience-page/GEODIS.jpg",
     place: "GEODIS",
-    time: "Sep 2020 - jun 2022",
+    time: "Sep 2021 - sept 2022",
     desp: "<li>Trabajé administrando equipos y servidores de la empresa de diversos tipos</li> <li>Mantenimeinto, reparación y asignación de equpamiento infromático a los usuarios</li> <li>Ayudé en los diversos problemas que podrian tener los usuarios</li>",
+  },
+  {
+    title: "Data Scientist",
+    cardImage: "assets/images/experience-page/GEODIS.jpg",
+    place: "GEODIS",
+    time: "Oct 2022 - Dic 2022",
+    desp: "<li>Creación de modelos predictivos de IA</li> <li>Creación de APIs para conectar los resultados con otros sistemas</li> <li>Manupulación, extracción y transformación de datos</li>",
   },
 
 ];
