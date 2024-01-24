@@ -15,7 +15,7 @@ const exp = [
     title: "Data Scientist",
     cardImage: "assets/images/experience-page/GEODIS.jpg",
     place: "GEODIS",
-    time: "Oct 2022 - Dic 2022",
+    time: "Oct 2022 - Dic 2023",
     desp: "<li>Creación de modelos predictivos de IA</li> <li>Creación de APIs para conectar los resultados con otros sistemas</li> <li>Manupulación, extracción y transformación de datos</li>",
   },
 
