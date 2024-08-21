@@ -6,11 +6,24 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "Predicción del Parkinson(Proyecto actual)",
+    cardImage: "assets/images/project-page/Parkinson.png",
+    description: "A chess engine for a popular game dev engine.",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Githublink: "https://github.com/Toni2Morales/PrediccionParkinson",
+  },
+  {
+    title: "Reddit NLP y Spark",
+    cardImage: "assets/images/project-page/Reddit.png",
+    description: "A chess engine for a popular game dev engine.",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Githublink: "https://github.com/Toni2Morales/ProyectoNLP",
+  },
+  {
     title: "Predicción sobre carreras de caballos",
     cardImage: "assets/images/project-page/CarreraDeCaballos.jpg",
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://www.kaggle.com/code/tonimorales/analysis-and-next-position-prediction",
     Githublink: "https://www.kaggle.com/code/tonimorales/analysis-and-next-position-prediction",
   },
   {
@@ -18,23 +31,13 @@ const projects = [
     cardImage: "assets/images/project-page/Mineria.jpeg",
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://github.com/Toni2Morales/MachineLearning",
     Githublink: "https://github.com/Toni2Morales/MachineLearning",
-  },
-  {
-    title: "Reddit NLP y Spark",
-    cardImage: "assets/images/project-page/Reddit.png",
-    description: "A chess engine for a popular game dev engine.",
-    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://github.com/Toni2Morales/ProyectoNLP",
-    Githublink: "https://github.com/Toni2Morales/ProyectoNLP",
   },
   {
     title: "Predicción y Análisis de vinos(NLP)",
     cardImage: "assets/images/project-page/Vino.jpg",
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://github.com/Toni2Morales/PrediccionyAnalisisDeVinos",
     Githublink: "https://github.com/Toni2Morales/PrediccionyAnalisisDeVinos",
   },
     {
@@ -42,7 +45,6 @@ const projects = [
     cardImage: "assets/images/project-page/Workout.jpg",
     description: "A quiz app built using basic react.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://github.com/Toni2Morales/WorkoutClassifier",
     Githublink: "https://github.com/Toni2Morales/WorkoutClassifier",
   },
   {
@@ -50,7 +52,6 @@ const projects = [
     cardImage: "assets/images/project-page/Moto.jpg",
     description: "A quiz app built using basic react.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://github.com/Toni2Morales/PrediccionPrecioMoto",
     Githublink: "https://github.com/Toni2Morales/PrediccionPrecioMoto",
   },
   {
@@ -58,7 +59,6 @@ const projects = [
     cardImage: "assets/images/project-page/Huevos.jpg",
     description: "Exercise tracker built using basic redux.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
-    Previewlink: "https://github.com/Toni2Morales/ClasificadorImagenes.git",
     Githublink: "https://github.com/Toni2Morales/ClasificadorImagenes.git",
   },
 
