@@ -310,9 +310,19 @@ input[type="text"] {
   color: rgb(235, 148, 35);
 }
 
+#Icono {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 76px;
+  left: 50%;
+  transform: translateX(-41%);
+}
 .skill-card .wrapper:hover .menu-content span {
   transform: translate(-50%, -10px);
   opacity: 1;
+  position: relative;
 }
 
 .skill-card {
@@ -347,7 +357,7 @@ input[type="text"] {
 
 .skill-card .menu-content li {
   margin: 0 2px;
-  position: relative;
+  position: absolute;
 }
 
 .skill-card .menu-content span {
