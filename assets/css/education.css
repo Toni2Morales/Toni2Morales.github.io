@@ -404,8 +404,8 @@ header p {
   float: right;
   padding: 40px 30px 10px 30px;
 }
- .timeline-item:nth-child(even) .timeline-content .alignment {
-  position:absolute;
+ .timeline-item:nth-child(even) .timeline-content .alignment-right {
+  position:relative;
   text-align: left;
   padding-right: 5px;
 } 
@@ -448,7 +448,6 @@ header p {
   box-shadow: 0 20px 25px 15px rgba(0, 0, 0, 0.3);
   display: flex;
   flex-direction: row;
-  align-items: center;
    background-image: linear-gradient(147deg, #545b62a8, black);
   color: white;
 }
@@ -548,9 +547,17 @@ blockquote {
   right: 0;
 }
 
-.alignment{
+.alignment-right{
   padding-left: 20px;
-  
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.alignment-left{
+  padding-left: 5px;
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
 
     /* Media Query  header/footer */

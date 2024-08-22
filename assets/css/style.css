@@ -757,6 +757,11 @@ Rotate Transition in foote Soical Icon
   box-shadow: 10px 10px 5px rgb(0 0 0 / 20%);
 }
 
+.rounded-social-buttons .social-button.kaggle {
+  background: #2b2a2A;
+  box-shadow: 10px 10px 5px rgb(0 0 0 / 20%);
+}
+
 .rounded-social-buttons .social-button.linkedin:hover,
 .rounded-social-buttons .social-button.linkedin:focus {
   color: #000;

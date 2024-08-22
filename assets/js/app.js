@@ -128,7 +128,7 @@ let footer = $(`
                 <h6 class="display">Contáctame</h6>
               </div>
                 <form name="form1" action="https://formcarry.com/s/ZgTrVVmZsp" method="POST" accept-charset="UTF-8" >
-                  <input id="name" type="text" name="name" placeholder="Tu Nombre" required/>
+                  <input id="name" type="text" name="name" placeholder="Tu nombre" required/>
                   <input id="email" type="email" name="email" placeholder="Dirección de correo electrónico" required/>                  
                   <textarea id="textArea" name="message" placeholder="Escribe tu mensaje" required></textarea>
               
@@ -173,7 +173,9 @@ let footer = $(`
     </svg>
     </a>
 
-
+    <a class="social-button kaggle" href="https://www.kaggle.com/tonimorales" target="_blank" rel="author">
+        <i class="fab fa-kaggle"></i>
+    </a>
     
     </div>
     </div>

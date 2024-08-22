@@ -18,7 +18,13 @@ const exp = [
     time: "Sep 2022 - Enero 2024",
     desp: "<li>Creación de modelos predictivos de IA</li> <li>Creación de APIs para conectar los resultados con otros sistemas</li> <li>Manupulación, extracción y transformación de datos</li>",
   },
-
+  {
+    title: "Profesor de robótica",
+    cardImage: "assets/images/experience-page/Logix5.jpg",
+    place: "Logix5",
+    time: "Enero 2024 - Junio 2024",
+    desp: "<li>Enseñanza en colegios e institutos de robótica</li> <li>Programación en C++ con Arduino</li> <li>Diseño y creación de circuitos electrónicos</li>",
+  },
 ];
 
 const showCards2 = () => {
