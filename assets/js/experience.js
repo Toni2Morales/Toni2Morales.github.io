@@ -9,30 +9,21 @@ const exp = [
     cardImage: "assets/images/experience-page/GEODIS.jpg",
     place: "GEODIS",
     time: "Sept 2021 - Sept 2022",
-    desp: "<li>Administración equipos y servidores de la empresa de diversos tipos</li>
-      <li>Mantenimiento y reparación de la red de la empresa</li>
-      <li>Trabajé como soporte técnico a todos los usuarios de España</li>
-      <li>Administración de las bases de datos</li>",
+    desp: "<li>Administración equipos y servidores de la empresa de diversos tipos</li><li>Mantenimiento y reparación de la red de la empresa</li><li>Trabajé como soporte técnico a todos los usuarios de España</li><li>Administración de las bases de datos</li>",
   },
   {
     title: "Data Scientist",
     cardImage: "assets/images/experience-page/GEODIS.jpg",
     place: "GEODIS",
     time: "Sep 2022 - Enero 2024",
-    desp: "<li>Creación de modelos predictivos de IA y análisis de datos extraídos</li>
-      <li>Creación de APIs para conectar los resultados con otros sistemas</li>
-      <li>Manupulación, extracción y transformación de datos</li>
-      <li>Uso de herramientas Cloud y procesamiento distribuido</li>",
+    desp: "<li>Creación de modelos predictivos de IA y análisis de datos extraídos</li><li>Creación de APIs para conectar los resultados con otros sistemas</li><li>Manupulación, extracción y transformación de datos</li><li>Uso de herramientas Cloud y procesamiento distribuido</li>",
   },
   {
     title: "Profesor de robótica",
     cardImage: "assets/images/experience-page/Logix5.jpg",
     place: "Logix5",
     time: "Enero 2024 - Junio 2024",
-    desp: "<li>Enseñanza de robótica en colegios e institutos</li>
-      <li>Programación en C++ con Arduino</li>
-      <li>Diseño y creación de circuitos electrónicos</li>
-      <li>Instrucción sobre fundamentos físicos, electrónicos y de programación</li>",
+    desp: "<li>Enseñanza de robótica en colegios e institutos</li><li>Programación en C++ con Arduino</li><li>Diseño y creación de circuitos electrónicos</li><li>Instrucción sobre fundamentos físicos, electrónicos y de programación</li>",
   },
 ];
 
