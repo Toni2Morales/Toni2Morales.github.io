@@ -12,18 +12,32 @@ const exp = [
     desp: "<li>Administración equipos y servidores de la empresa de diversos tipos</li><li>Mantenimiento y reparación de la red de la empresa</li><li>Trabajé como soporte técnico a todos los usuarios de España</li><li>Administración de las bases de datos</li>",
   },
   {
-    title: "Data Scientist",
-    cardImage: "assets/images/experience-page/GEODIS.jpg",
-    place: "GEODIS",
-    time: "Sep 2022 - Enero 2024",
-    desp: "<li>Creación de modelos predictivos de IA y análisis de datos extraídos</li><li>Creación de APIs para conectar los resultados con otros sistemas</li><li>Manupulación, extracción y transformación de datos</li><li>Uso de herramientas Cloud y procesamiento distribuido</li>",
-  },
-  {
     title: "Profesor de robótica",
     cardImage: "assets/images/experience-page/Logix5.jpg",
     place: "Logix5",
     time: "Enero 2024 - Junio 2024",
     desp: "<li>Enseñanza de robótica en colegios e institutos</li><li>Programación en C++ con Arduino</li><li>Diseño y creación de circuitos electrónicos</li><li>Instrucción sobre fundamentos físicos, electrónicos y de programación</li>",
+  },
+  {
+    title: "Profesor particular de Ciencia de Datos",
+    cardImage: "assets/images/experience-page/DataScience.jpg",
+    place: "Ninguna Empresa",
+    time: "Junio 2024 - Enero 2025",
+    desp: "<li>Enseñanza de programación en Python</li><li>Bases teóricas sobre análisis de datos</li><li>Diseño y creación de modelos predictivos e ingeligencias artificiales</li><li>Ejercicios prácticos con despliegue de modelos y aplicaciones</li>",
+  },
+  {
+    title: "Técnico de Staging de ATMs",
+    cardImage: "assets/images/experience-page/Interdata_grandes_cuentas_sl.jpg",
+    place: "Interdata",
+    time: "Octubre 2024 - Marzo 2025",
+    desp: "<li>Instalación de software para ATMs</li><li>Realización de pruebas y diagnósticos</li><li>Configuraciones iniciales y esenciales</li><li>Configuración de periféricos para el ATM</li>",
+  },
+  {
+    title: "Desarrollador Multiplataforma",
+    cardImage: "assets/images/experience-page/Digiteyes.jpg",
+    place: "Digiteyes",
+    time: "Marzo 2025 - Junio 2025",
+    desp: "<li>Desarrollo de software y microservicios</li><li>Uso de LLMs para creación de aplicaciones</li><li>Uso de herramientas CLOUD(AWS)</li><li>Desarrollo de API REST</li>",
   },
 ];
 
