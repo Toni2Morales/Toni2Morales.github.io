@@ -5,8 +5,15 @@ const projectcards = document.querySelector(".projectcards");
 
 // Array of object for projects
 const projects = [
+    {
+    title: "Gestor de Tareas con Django",
+    cardImage: "assets/images/project-page/GestorDeTareas.png",
+    description: "A chess engine for a popular game dev engine.",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Githublink: "https://github.com/Toni2Morales/GestorDeTareasDjango",
+  },
   {
-    title: "Predicción del Parkinson(Proyecto actual)",
+    title: "Predicción del Parkinson",
     cardImage: "assets/images/project-page/parkinson.png",
     description: "A chess engine for a popular game dev engine.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
