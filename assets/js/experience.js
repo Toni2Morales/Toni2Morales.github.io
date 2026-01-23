@@ -36,8 +36,15 @@ const exp = [
     title: "Desarrollador Multiplataforma",
     cardImage: "assets/images/experience-page/Digiteyes.jpg",
     place: "Digiteyes",
-    time: "Marzo 2025 - Junio 2025",
-    desp: "<li>Desarrollo de software y microservicios</li><li>Uso de LLMs para creación de aplicaciones</li><li>Uso de herramientas CLOUD(AWS)</li><li>Desarrollo de API REST</li>",
+    time: "Marzo 2025 - Octubre 2025",
+    desp: "<li>Desarrollo de software y microservicios</li><li>Uso de LLMs(Ollama, Chatgpt)</li><li>Uso de AWS(EC2, S3, RDS, DynamoDB, Elastic Beanstalk, Lambda)</li><li>Desarrollo de APIs REST</li><li>Uso de librerías de Python(Pandas, Numpy, Flask, Django, PySpark)</li><li>Desarrollo con BBDD SQL y NoSQL(MySQL, PostgreSQL, MongoDB)</li>",
+  },
+    {
+    title: "Data Engineer",
+    cardImage: "assets/images/experience-page/Keedio.png",
+    place: "Keedio",
+    time: "Octubre 2025 - Diciembre 2025",
+    desp: "<li>Ticketing(Service Now)</li><li>Scripting en Bash(Linux)</li><li>Scripting en Python</li><li>Uso de Cyberark para conexión remota.</li><li>Desarrollo con SQL</li><li>Uso de Cyberark para conexión remota.</li><li>Excel y Power BI</li>",
   },
 ];
 
