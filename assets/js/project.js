@@ -5,6 +5,20 @@ const projectcards = document.querySelector(".projectcards");
 
 // Array of object for projects
 const projects = [
+  {
+    title: "Robot con Deep Q-Learning",
+    cardImage: "assets/images/project-page/RobotPython.png",
+    description: "A chess engine for a popular game dev engine.",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Githublink: "https://github.com/Toni2Morales/RobotConDeepQNetwork",
+  },
+  {
+    title: "Robot Virtual 2D con C++",
+    cardImage: "assets/images/project-page/RobotC++.jpg",
+    description: "A chess engine for a popular game dev engine.",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Githublink: "https://github.com/Toni2Morales/ControladorRobot2D",
+  },
     {
     title: "Gestor de Tareas con Django",
     cardImage: "assets/images/project-page/GestorDeTareas.png",
@@ -46,13 +60,6 @@ const projects = [
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Githublink: "https://github.com/Toni2Morales/PrediccionyAnalisisDeVinos",
-  },
-    {
-    title: "Clasificación de Ejercicios",
-    cardImage: "assets/images/project-page/Workout.jpg",
-    description: "A quiz app built using basic react.",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Githublink: "https://github.com/Toni2Morales/WorkoutClassifier",
   },
   {
     title: "Predicción del precio de motos",
