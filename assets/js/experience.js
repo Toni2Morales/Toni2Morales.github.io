@@ -27,7 +27,7 @@ const exp = [
   },
   {
     title: "Desarrollador Python (Prácticas)",
-    cardImage: "assets/images/experience-page/Digiteyes.jpg",
+    cardImage: "assets/images/experience-page/digiteyes.jpg",
     place: "Digiteyes",
     time: "Marzo 2025 - Octubre 2025",
     desp: "<li>Desarrollo en Python(Pandas, Numpy, Flask, Django, PySpark, Langchain)</li><li>Programación en Javascript y TypeScript(React)</li><li>Desarrollo de APIs REST</li><li>Uso de LLMs(Ollama, OpenAI)</li><li>Uso de AWS(EC2, S3, RDS, DynamoDB, Elastic Beanstalk, Lambda)</li><li>Creación de microservicios</li><li>Uso de Herramientas Colaborativas(Git, Github)</li><li>Desarrollo con BBDD SQL y NoSQL(MySQL, PostgreSQL, MongoDB)</li><li>Uso de contenedores(Docker)</li>",
