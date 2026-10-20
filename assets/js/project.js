@@ -6,6 +6,13 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "Agente de Inteligencia Documental",
+    cardImage: "assets/images/project-page/DocuMind.png",
+    description: "",
+    tagimg: "",
+    Githublink: "https://github.com/Toni2Morales/AgenteDeInteligenciaDocumental",
+  },
+  {
     title: "Detector de Gestos",
     cardImage: "assets/images/project-page/DetectorDeGestos.png",
     description: "",
